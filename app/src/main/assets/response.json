@@ -1,0 +1,104 @@
+{
+  "type": "COLUMN",
+  "props": {
+    "alignment": "CENTER",
+    "modifier": {
+      "backgroundColor": "#009653"
+    }
+  },
+  "children": [
+    {
+      "type": "SPACER",
+      "props": {
+        "modifier": {
+          "size": 10
+        }
+      }
+    },
+    {
+      "type": "TEXT",
+      "value": "Top text",
+      "props": {
+        "style": {
+          "fontSize": 16,
+          "color": "#CE2824"
+        }
+      }
+    },
+    {
+      "type": "COLUMN",
+      "props": {
+        "alignment": "CENTER",
+        "modifier": {
+          "backgroundColor": "#ffffff",
+          "rounded": 10,
+          "margin": 10
+        }
+      },
+      "children": [
+        {
+          "type": "IMAGE",
+          "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sign-check-icon.png/768px-Sign-check-icon.png",
+          "props": {
+            "modifier": {
+              "size": 100
+            }
+          }
+        },
+        {
+          "type": "SPACER",
+          "props": {
+            "modifier": {
+              "size": 10
+            }
+          }
+        },
+        {
+          "type": "TEXT",
+          "value": "Middle text",
+          "props": {
+            "style": {
+              "fontSize": 16,
+              "color": "#CE2824"
+            }
+          }
+        },
+        {
+          "type": "SPACER",
+          "props": {
+            "modifier": {
+              "size": 400
+            }
+          }
+        },
+        {
+          "type": "BUTTON",
+          "value": "Click me"
+        },
+        {
+          "type": "ROW",
+          "props": {
+            "alignment": "BOTTOM",
+            "arrangement": "END",
+            "modifier": {
+              "width": "100%",
+              "height": "100%",
+              "margin": 20
+            }
+          },
+          "children": [
+            {
+              "type": "IMAGE",
+              "value": "https://cdn-icons-png.flaticon.com/512/1019/1019607.png",
+              "props": {
+                "modifier": {
+                  "size": 40
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

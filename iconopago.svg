@@ -1,0 +1,32 @@
+<svg
+   width="350mm"
+   height="350mm"
+   viewBox="0 0 350 350"
+   version="1.1"
+   id="svg295"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs292" />
+  <g
+     id="layer1"
+     transform="translate(48.507103,34.346008)">
+    <circle
+       style="fill:#178164;stroke-width:0.264583;fill-opacity:1"
+       id="path468"
+       cx="126.4929"
+       cy="140.65399"
+       r="175" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:185.989px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.350207"
+       x="18.51342"
+       y="204.25931"
+       id="text1078"
+       transform="scale(0.97926379,1.0211753)"><tspan
+         id="tspan1076"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:185.989px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.350207"
+         x="18.51342"
+         y="204.25931">S/.</tspan></text>
+  </g>
+</svg>
